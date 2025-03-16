@@ -15,7 +15,7 @@ Este repositorio contiene scripts de Python para web scraping, extrae diferente 
 - BeautifulSoup4
 - Requests
 
-## Instalación
+## Instalación y uso
 
 1. Clona el repositorio:
    ```bash
