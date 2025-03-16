@@ -20,6 +20,7 @@ Este repositorio contiene scripts de Python para web scraping, extrae diferente 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/Dian13H/webScraping.git
+   cd webScraping
    ```
    
 2. En una terminal levanta un servidor web:
